@@ -1,6 +1,4 @@
 # ProjetoFinal_S.D.
-
-# send-sms-aws
 Enviando SMS através do serviço SNS da AWS usando Python
 
 
