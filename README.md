@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Final - Sistemas Distribuídos. </h1>
+<h1 align="center"> Projeto Final - Sistemas Distribuídos</h1>
 
 ## Introdução
 Chat TCP utilizando a linguagem Python, Sockets e Arquitetura Cliente-Servidor. Teremos um servidor que hospeda o chat e vários clientes que se conectam a ele e se comunicam entre si.
